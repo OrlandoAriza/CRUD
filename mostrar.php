@@ -18,7 +18,7 @@
                                         <th style="background-color: green; color:white;">DIRECCION</th>
                                         <th style="background-color: green; color:white;">PAIS</th>
                                         <th style="background-color: green; color:white;">EDAD</th>
-                                        <th style="background-color: green; color:white;">ACUDINETE</th>
+                                        <th style="background-color: green; color:white;">ACUDIENTE</th>
                                         <th style="background-color: green; color:white;">NOMBRE ESPECIALISTA</th>
                                         <th style="background-color: green; color:white;">MOTIVO</th>
                                         <th style="background-color: green; color:white;">OPERACION</th>
